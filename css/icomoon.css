@@ -1257,13 +1257,4 @@
 .icon-youtube:before {
   content: "\ea9a";
 }
-/* Gmail Icon */
-.icon-gmail:before {
-  content: "\ea9b";
-}
-
-/* Mail Icon */
-.icon-mail:before {
-  content: "\e9db";
-}
 
